@@ -2,11 +2,11 @@
 
 ## Repo-Owner
 
-Github [https://github.com/HadiAnik?tab=repositories](Github) Repository Link.
+Github [Github](https://github.com/HadiAnik?tab=repositories) Repository Link.
 
 ## Website-Owner
 
-Website [https://hadiuzzaman.netlify.app](Site) Link.
+Website [Site](https://hadiuzzaman.netlify.app) Link.
 
 # First, clone the Repository:
 
