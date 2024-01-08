@@ -7,7 +7,6 @@ Github [Github](https://github.com/HadiAnik?tab=repositories) Repository Link.
 ## Website-Owner
 
 Website [Site](https://hadiuzzaman.netlify.app) Link.
-Website <a href="https://hadiuzzaman.netlify.app" target="_blank">Site</a> Link.
 
 # First, clone the Repository:
 
